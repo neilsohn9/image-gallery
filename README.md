@@ -14,6 +14,7 @@ This is a simple, responsive image gallery built using HTML, CSS, and JavaScript
 ## Project Structure
 
 image-gallery/
+
 ├── images/
 │   ├── image1.jpg
 │   ├── image2.jpg
