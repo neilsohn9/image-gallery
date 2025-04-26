@@ -16,9 +16,12 @@ This is a simple, responsive image gallery built using HTML, CSS, and JavaScript
 image-gallery/
 
 ├── images/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   ├── image3.jpg
+│   
+├── image1.jpg
+│   
+├── image2.jpg
+│   
+├── image3.jpg
 │   └── (add more images as needed)
 ├── index.html
 ├── styles.css
